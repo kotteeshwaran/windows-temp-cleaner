@@ -35,6 +35,8 @@ A Node.js utility script to automatically clean Windows temporary folders (`%TEM
 ### Scheduling automatic cleanup
 
 Run the script and follow prompts to schedule automatic cleanup:
+**node clean_temp_scheduled.js**
 
-```bash
-node clean_temp_scheduled.js
+To clean temp folders immediately without scheduling, run:
+**node clean_temp_scheduled.js --cleanup**
+
