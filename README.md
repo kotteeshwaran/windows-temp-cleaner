@@ -1,5 +1,3 @@
-# windows-temp-cleaner
-
 # Windows Temp Cleaner
 
 A Node.js utility script to automatically clean Windows temporary folders (`%TEMP%` and `C:\Windows\Temp`) by deleting unused files and folders.
